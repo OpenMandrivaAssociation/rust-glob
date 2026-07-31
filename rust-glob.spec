@@ -5,8 +5,8 @@
 %global crate glob
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        4%{?dist}
+Version:        0.3.4
+Release:        1%{?dist}
 Summary:        Support for matching file paths against Unix shell style patterns
 
 # Upstream license specification: MIT/Apache-2.0
